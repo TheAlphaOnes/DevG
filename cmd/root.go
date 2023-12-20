@@ -1,17 +1,16 @@
-/*
-Copyright © 2023 dedomil <dedomil@skiff.com>
-*/
 package cmd
 
 import (
 	"os"
+
+	"devg/cmd/template"
 
 	"github.com/spf13/cobra"
 )
 
 var rootCmd = &cobra.Command{
 	Use:   "devg",
-	Short: "A developers everyday work tool!.",
+	Short: "A developers everyday work tool",
 }
 
 func Execute() {
@@ -21,4 +20,7 @@ func Execute() {
 	}
 }
 
-func init() {}
+func init() {
+	rootCmd.AddCommand(template.TemplateCmd)
+	rootCmd.CompletionOptions.DisableDefaultCmd = true
+}
