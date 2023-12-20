@@ -6,7 +6,7 @@
 
 ## Overview
 
-DevG is a powerful and versatile Python tool designed to simplify project initiation, streamline development workflows, and enhance code consistency. With DevG, you can effortlessly create project templates, set up development folders, and standardize commands, making your Python development process more efficient and organized.
+DevG is a powerful and versatile developer tool designed to simplify project initiation, streamline development workflows, and enhance code consistency. With DevG, you can effortlessly create project templates, set up development folders, and standardize commands, making your Python development process more efficient and organized.
 
 ## Features
 
