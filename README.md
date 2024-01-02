@@ -5,7 +5,7 @@
 
 ## Overview
 
-DevG is a comprehensive and versatile CLI tool designed to streamline various aspects of the development workflow. Built with Go and leveraging the power of Cobra and charm.sh, DevG offers a unified solution for project management, template creation, code snippets, GitHub integration, dependency management, and more. Enhance your productivity, collaboration, and development experience with DevG!
+DevG is a comprehensive and versatile CLI tool designed to streamline various aspects of the development workflow. Built with Python and leveraging the power of Typer and Rich, DevG offers a unified solution for project management, template creation, code snippets, GitHub integration, dependency management, and more. Enhance your productivity, collaboration, and development experience with DevG!
 
 ## Features
 
