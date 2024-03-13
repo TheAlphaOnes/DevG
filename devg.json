@@ -1,0 +1,18 @@
+{
+    "name": "g",
+    "description": "react-web",
+    "status": "",
+    "command": {
+        "build": "build npm",
+        "run": "run npm",
+        "test": "test npm"
+    },
+    "dependency": {
+        "installer-command": "go get <pkg>",
+        "packages": []
+    },
+    "todo": {
+        "done": [],
+        "left": []
+    }
+}
