@@ -1,6 +1,7 @@
 # DevG - Your Unified Developer CLI Tool
 
-> **⚠️ WARNING: DevG is currently in development and not ready for use.**
+> [!WARNING]  
+> The Tool is not ready yet, it is still in Development
 
 ## Overview
 
@@ -31,12 +32,7 @@ DevG is a comprehensive and versatile CLI tool designed to streamline various as
 
 ### And More to Come...
 
-## Technology Stack
 
-- **Python**: Core programming language
-- **Typer**: CLI app building library
-- **Rich**: Library for rich text and beautiful formatting in the terminal
-- **Lua**: Scripting language for plugin system
 
 
 This project is licensed under the [MIT License](LICENSE).
