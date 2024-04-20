@@ -27,11 +27,20 @@ DevG is a comprehensive and versatile CLI tool designed to streamline various as
 - **UI Interface in Web for Management**: Web-based UI for managing projects, templates, and other DevG functionalities.
 - **Plugin System with Lua Integration**: Extend the functionality of DevG using Lua scripting language.
 - **Create a Template Skeleton File to Build a Template (XML)**: Create template skeleton files using XML to define the structure and content of project templates.
-- **API Key Manager**: Manage and securely store API keys for various services and platforms.
+- **API Key Manager**: Manage and securely store API keys for various services and platforms, and use anywhere in your project very easyly.
 - **Introducing Layers Concept**: Simplify and enhance the functionality of existing CLI tools like git, gh, ffmpeg, etc., using a layering system.
 
 ### And More to Come...
 
+### Plugin System with Lua Integration:
+
+DevG's Plugin System allows you to extend the functionality of the tool using Lua scripting language. With the Plugin System, you can add new features, automate tasks, and customize DevG according to your preferences and workflow.
+
+#### Key Features of Plugin System:
+
+- **Extend Functionality**: Add new features and functionalities to DevG.
+- **Automate Tasks**: Automate repetitive tasks and workflows.
+- **Online Plugin Installation**: Browse, download, and install online plugins easily within DevG.
 
 
 
